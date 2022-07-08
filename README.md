@@ -15,9 +15,9 @@ The dataset contains data for each county in New York State, and provides annual
 
 ## Of the listed data, the following variables are to be analyzed:
 
-Deaths
-% Poor Health
-% Low Birthweight
+1- Deaths.
+2- % Poor Health.
+3- % Low Birthweight.
 Food Environment Index
 Number of Driving Deaths
 Number of Uninsured People
