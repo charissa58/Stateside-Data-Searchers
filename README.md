@@ -18,10 +18,10 @@ The dataset contains data for each county in New York State, and provides annual
 1- Deaths.
 2- % Poor Health.
 3- % Low Birthweight.
-Food Environment Index
-Number of Driving Deaths
-Number of Uninsured People
-Mental Health Provider Ratio
+4- Food Environment Index.
+5- Number of Driving Deaths.
+6- Number of Uninsured People.
+7- Mental Health Provider Ratio.
 
 ### The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
