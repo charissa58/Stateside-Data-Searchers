@@ -25,12 +25,8 @@ The dataset contains data for each county in New York State, and provides annual
 
 ### The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
-## How do your findings impact the world at large?
+## Presentation: https://onedrive.live.com/View.aspx?resid=92CA8B1BA0A6AF73!9663&authkey=!ANW5gdSdpq2XQ-o
 
-
-
-## What's important about this work?
-
-
-
-## Big picture information
+### How do your findings impact the world at large?
+### What's important about this work?
+### Big picture information
