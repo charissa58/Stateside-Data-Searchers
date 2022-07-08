@@ -15,13 +15,15 @@ The dataset contains data for each county in New York State, and provides annual
 
 ## Of the listed data, the following variables are to be analyzed:
 
-# Deaths
-# % Poor Health
-# % Low Birthweight
-# Food Environment Index
-# Number of Driving Deaths
-# Number of Uninsured People
-# Mental Health Provider Ratio
+### Deaths
+### % Poor Health
+### % Low Birthweight
+### Food Environment Index
+### Number of Driving Deaths
+### Number of Uninsured People
+### Mental Health Provider Ratio
+
+### The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
 ## How do your findings impact the world at large?
 
