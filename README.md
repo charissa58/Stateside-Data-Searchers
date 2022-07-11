@@ -27,6 +27,4 @@ The dataset contains data for each county in New York State, and provides annual
 
 ## Presentation: https://onedrive.live.com/View.aspx?resid=92CA8B1BA0A6AF73!9663&authkey=!ANW5gdSdpq2XQ-o
 
-### How do your findings impact the world at large?
-### What's important about this work?
-### Big picture information
+
